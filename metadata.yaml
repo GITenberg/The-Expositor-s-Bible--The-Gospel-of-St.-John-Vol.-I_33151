@@ -1,0 +1,39 @@
+_repo: The-Expositor-s-Bible--The-Gospel-of-St.-John-Vol.-I_33151
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dods, Marcus
+    alias: Dodds, Marcus
+    birthdate: 1834
+    deathdate: 1909
+    gutenberg_agent_id: '5058'
+    url: http://www.gutenberg.org/2009/agents/5058
+    wikipedia: http://en.wikipedia.org/wiki/Marcus_Dods_%28theologian%29
+  editor:
+    agent_name: Nicoll, W. Robertson (William Robertson), Sir
+    aliases:
+    - Nicoll, William Robertson, Sir
+    - Clear, Claudius
+    - Wace, Walter E.
+    birthdate: 1851
+    deathdate: 1923
+    gutenberg_agent_id: '36133'
+    url: http://www.gutenberg.org/2009/agents/36133
+description: ''
+gutenberg_issued: '2010-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33151'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. John'
+- !lcc 'BS'
+- !lcsh 'Bible. John -- Criticism, interpretation, etc.'
+title: 'The Expositor''s Bible: The Gospel of St. John, Vol. I'
+url: http://www.gutenberg.org/ebooks/33151
